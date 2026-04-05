@@ -1,0 +1,12 @@
+[project]
+name = "x444-Nuker"
+version = "0.1.0"
+description = "x444, fastest nuker on discord written in py."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "colorama==0.4.5",
+    "discord==1.7.3",
+    "discord-py==1.7.3",
+    "httpx==0.23.0",
+]
